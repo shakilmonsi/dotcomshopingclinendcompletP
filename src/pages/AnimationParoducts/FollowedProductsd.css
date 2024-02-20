@@ -1,0 +1,20 @@
+.express_style{
+    display: flex;
+padding: 3px 8px;
+justify-content: center;
+align-items: center;
+gap: 6px;
+    border-radius: 1px 8px;
+background: linear-gradient(90deg, #F83600 0.18%, #FE8C00 79.69%, #F83600 99.92%);
+}
+.add_card_button{
+    display: flex;
+    height: 37px;
+    width: 203px;
+
+
+align-items: center;
+
+border-radius: 4px;
+background: rgba(42, 42, 42, 0.90);
+}

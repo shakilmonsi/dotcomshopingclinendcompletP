@@ -1,0 +1,20 @@
+.style__name{
+    color: #212322;
+
+/* 14 med */
+font-family: "Inter";
+font-size: 14px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.price_style{
+    color: var(--Black, #2A2A2A);
+
+/* 16 med */
+font-family: Inter;
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
